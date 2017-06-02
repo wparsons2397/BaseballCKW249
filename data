@@ -1,0 +1,58 @@
+<body>
+
+  <menu>
+    <a href="google.com">
+      Home
+    </a>
+        <a href="google.com">
+      2017 Playoff Predictions
+    </a>
+    <a href="bing.com">
+      Data
+    </a>
+    <a href="bing.com">
+      Testing
+    </a>
+    <a href="meatspin.com">
+      Contact Us
+    </a>
+  </menu>
+  <br>
+  <h1>
+    The Data
+  </h1>
+  <p>
+    We compiled our data directly from Baseball-Reference.com, a site which stores in-depth statistics for every baseball team througout the course of a season. The site keeps stats stored with monthly splits, so we were able to extract the statistics used directly from the site for each month. We then made two sets of logs, one with the statistics from each month individually, and one set which held the cumulative stats for each team up until that point. We used the following stats:
+  </p>
+  <br>
+  <p id="stat">
+    BABIP: Batting Average on Balls in Play
+  </p>
+  <p>
+    This statistic indicates how many of the balls a player has put in play for the specified portion of time have resulted in hits. Typically 30% of balls a hitter puts in play result in hits, so if this number is signicantly above or below this number it indicates the team will regress or improve going forwards.
+  </p>
+  <p id="stat">
+    tOPS+: On Base Percentage Plus Slugging (Comparison to Career OPS)
+  </p>
+  <p>
+    tOPS is a percent difference between the player's OPS for that portion of the season as compared to their career averages. This statistic is a good indicator of whether a team's hitting will regress or improve as the season continues, since it is expected a player will move towards a tOPS+ of 100 - indicating the same OPS as the player's career OPS.
+  </p>
+  <p id="stat">
+    WHIP: (Wins + Hits) / Innings Pitched
+  </p>
+  <p>
+    This statistic is a pitching metric we sampled from the starting rotations of all teams. It is an indicator of how many batters a pitcher allows on base per inning. It is regarded as one of the best indicators of pitching performance.
+    
+  </p>
+  <p id="stat">
+    SO/9: Strikeouts per 9 innings
+  </p>
+  <p>
+    This statistic was taken for the starting rotation for each team across the season. It represents the number of strikeouts the pitcher accumulates per 9 innings. This accounts for the fact that some teams have different length rotations and therefore some pitchers will pitch more innings and have more strikeouts. By dividing this number into the amount per 9 innings pitched the statistic is normalized and better represents the performance of the starting rotation.
+  </p>
+  <p id="stat">
+    RD: Runs Scored - Runs Allowed
+  </p>
+  <p>
+    This statistic measures how many more runs a team scores than it allows. It is an overall measure of a team's production on both offense and defense.
+  </p>

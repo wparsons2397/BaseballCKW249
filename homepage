@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>
+</title>
+</head>
+  <menu>
+    <a href="google.com">
+      Home
+    </a>
+        <a href="google.com">
+      2017 Playoff Predictions
+    </a>
+    <a href="bing.com">
+      Data
+    </a>
+    <a href="bing.com">
+      Testing
+    </a>
+    <a href="meatspin.com">
+      Contact Us
+    </a>
+  </menu>
+  <br>
+  <body>
+
+<h1>America's Pastime: Gambling</h1>
+<h5>Kevin Chan, Conor McGeehan, Will Parsons</h5>
+  <h5>Northwestern University, EECS 349</h5>
+  <h5>Spring 2017</h5>
+    <br>
+<p>
+  Fantasy sports and sports gambling are a phenomenon that has swept the nation. Everyone is looking to get ahead of their friends with the best data on their favorite teams and players. Teams, meanwhile, are always looking for ways to best predict the success of both themselves and their competitors.
+    </p>
+    <p>
+      We set out to create a data set to couple with a machine learning classified to predict the success of MLB teams based on their statistics at the end of each month of the regular season. Using data compiled from the past five years, we tested an array of classifieds including nearest neighbor, logistic regression and decision trees to find the most accurate prediction of whether teams will make it to the playoffs. Based on the data we compiled we were able to note that, given cumulative statistics up to the end of each month, that a logistic regression model was about 80% accurate at predicting a team's success for statistics from every month
+  </p>
+    <p>
+      View our full dataset and final report here:
+    </p>
+    <p>
+          <a href="github.com"> Final Report</a>
+    </p>
+  </body>
+</html>

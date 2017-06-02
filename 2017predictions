@@ -1,0 +1,64 @@
+<html>
+    <menu>
+    <a href="google.com">
+      Home
+    </a>
+          <a href="google.com">
+      2017 Playoff Predictions
+    </a>
+    <a href="bing.com">
+      Data
+    </a>
+    <a href="bing.com">
+      Testing
+    </a>
+    <a href="meatspin.com">
+      Contact Us
+    </a>
+  </menu>
+  <br>
+  <body>
+    <h1>2017 Playoff Predictions</h1>
+    <p>
+      Based on data gathered up until the end of the month of May, when this project was completed, the following teams were predicted to make the playoffs after the 2017 season:
+    </p>
+    <p>
+      <div>
+        Houston Astros
+    </div>
+    <div>
+      Milwaukee Brewers
+    </div>
+    <div>
+      Arizona Diamondbacks
+    </div>
+    <div>
+      Los Angeles Dodgers
+    </div>
+    <div>
+      Cleveland Indians
+    </div>
+    <div>
+      Washington Nationals
+    </div>
+    <div>
+      Tampa Bay Rays
+    </div>
+    <div>
+      Boston Red Sox
+    </div>
+    <div>
+      Colorado Rockies
+    </div>
+    <div>
+      Chicago White Sox*
+    </div>
+    <div>
+      New York Yankees
+    </div>
+    </p>
+  <p>
+    We know this is 11 teams, and only 10 will make the playoffs. The team with the least probability of these is the Chicago White Sox. Coincidentally, we did not restrict our learner to selecting teams based on their league, but our predictor successfully selected five American League and five National League teams (discouting the White Sox). It also selected one team from each division, plus two more teams who would fill wildcard spots. 
+  </p>
+  </body>
+</html>
