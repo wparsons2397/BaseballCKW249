@@ -33,7 +33,7 @@ p {
 #onepic{
   position: relative;
   margin-top: -1000px; 
-  margin-left: 350px;
+  margin-right: 100px;
   width: 250px;
   height: 200px;
 }
@@ -41,7 +41,7 @@ p {
 #twopic{
   position: relative;
   margin-top: -800px; 
-  margin-left: 700px;
+  margin-leftt: 100px;
   width: 250px;
   height: 200px;
 }
