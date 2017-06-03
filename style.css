@@ -29,7 +29,13 @@ p {
   font-weight: bold;
   text-align: center;
 }
-
+#pix {
+  position: relative;
+  margin-top: -100px; 
+  margin-left:420px;
+  width: 200px;
+  height: 130px;
+}
 menu {
 
 }
