@@ -3,6 +3,7 @@ body {
   padding
 }
 div.people {
+  text-align:left;
   text-indent: 300px;
 }
 div {
