@@ -32,7 +32,7 @@ p {
 
 #leftpic{
   position: relative;
-  margin-top: -500px; 
+  margin-top: -800px; 
   margin-left: 350px;
   width: 200px;
   height: 200px;
@@ -40,7 +40,7 @@ p {
 
 #rightpic{
   position: relative;
-  margin-top: -500px; 
+  margin-top: -800px; 
   margin-left: 700px;
   width: 200px;
   height: 200px;
