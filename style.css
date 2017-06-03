@@ -4,7 +4,7 @@ body {
 }
 div.people {
   text-align:left;
-  text-indent:350px;
+  text-indent:400px;
 }
 div {
   text-align:center;
@@ -30,19 +30,19 @@ p {
   text-align: center;
 }
 
-#leftpic{
+#onepic{
   position: relative;
-  margin-top: -800px; 
+  margin-top: -1000px; 
   margin-left: 350px;
-  width: 200px;
+  width: 250px;
   height: 200px;
 }
 
-#rightpic{
+#twopic{
   position: relative;
   margin-top: -800px; 
   margin-left: 700px;
-  width: 200px;
+  width: 250px;
   height: 200px;
 }
 
