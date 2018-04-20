@@ -2,10 +2,12 @@ body {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   padding
 }
+
 div.people {
   text-align:left;
   text-indent:400px;
 }
+
 div {
   text-align:center;
 }
@@ -22,6 +24,11 @@ p {
   font-size: 16;
   padding: 0px 100px;
   text-align:center;
+}
+
+.image {
+  padding-left: 5em;
+  padding-right: 5em;
 }
 
 #stat{
