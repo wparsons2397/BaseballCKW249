@@ -79,19 +79,27 @@ a.finalreport{
 
   /*Pictures in Testing*/
   #testpix{
-    padding: 1em 3em 1em 3em;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    -moz-flex-direction: row;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    min-height: 22.5em;
   }
 
     #testpix > .left{
       position: relative;
-      width: 50vh;
-      height: 50vh;
-    }
+      width: 25em;
+      background-size: contain;
+      }
 
     #testpix > .right{
       position: relative;
-      width: 50vh;
-      height: 50vh;
+      width: 25em;
+      background-size: contain;
     }
 
 
