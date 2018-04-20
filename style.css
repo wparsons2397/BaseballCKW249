@@ -76,3 +76,10 @@ a:hover {
 a.finalreport{
   text-align:center;
 }
+
+/*Homepage*/
+.homepage{
+  background-image: "images/lisa_baseball.jpg";
+  background-size: contain;
+  background-position: center center;
+}
