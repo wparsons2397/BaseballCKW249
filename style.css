@@ -77,12 +77,28 @@ a.finalreport{
   text-align:center;
 }
 
+  /*Pictures in Testing*/
+  #testpix{
+    padding: 1em 3em 1em 3em;
+  }
+
+
+
+
 /*Homepage*/
   #homepage{
     background-image: "images/lisa_baseball.jpg";
     background-size: contain;
     background-position: center center;
   }
+
+    #homepage > .left{
+      position: relative;
+    }
+
+    #homepage > .right{
+      position: relative;
+    }
 
 /* Spotlights */
 
