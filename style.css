@@ -104,7 +104,7 @@ a.finalreport{
 
     .spotlights > section > .image {
       background-position: center center;
-      background-size: cover;
+      background-size: contain;
       border-radius: 0;
       display: block;
       position: relative;
