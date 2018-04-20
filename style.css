@@ -82,7 +82,17 @@ a.finalreport{
     padding: 1em 3em 1em 3em;
   }
 
+    #testpix > .left{
+      position: relative;
+      width: 50vh;
+      height: 50vh;
+    }
 
+    #testpix > .right{
+      position: relative;
+      width: 50vh;
+      height: 50vh;
+    }
 
 
 /*Homepage*/
@@ -91,18 +101,6 @@ a.finalreport{
     background-size: contain;
     background-position: center center;
   }
-
-    #homepage > .left{
-      position: relative;
-      width: 50vh;
-      height: 50vh;
-    }
-
-    #homepage > .right{
-      position: relative;
-      width: 50vh;
-      height: 50vh;
-    }
 
 /* Spotlights */
 
