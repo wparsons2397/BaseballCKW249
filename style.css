@@ -70,7 +70,8 @@ menu {
   text-align:center;
 }
 a:link {
-  color: black;
+  backrgound-color: red;
+  color: white;
   text-decoration:none;
   font-size: 18;
   margin: 10px;
@@ -78,8 +79,8 @@ a:link {
 }
 
 a:hover {
-  background-color: red;
-  color: white;
+  background-color: white;
+  color: red;
 }
 
 a.finalreport{
